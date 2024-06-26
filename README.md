@@ -39,4 +39,18 @@ After successfully running the Parking-Management simulator, we will encounter t
     <img height="auto" width="900px" src ="Assets/Results-Preview.png">
 </p> 
 
+## Analysis & Synthesis
+
+### TimeQuest Timing Analyzer Summary
+
+<p align="center">  
+    <img height="auto" width="450px" src ="Assets/TimeQuest-Timing-Analyzer-Summary.jpg">
+</p> 
+
+### Fmax Summary
+
+<p align="center">  
+    <img height="auto" width="450px" src ="Assets/Fmax-Summary.png">
+</p> 
+
 
