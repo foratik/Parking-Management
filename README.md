@@ -53,4 +53,8 @@ After successfully running the Parking-Management simulator, we will encounter t
     <img height="auto" width="450px" src ="Assets/Fmax-Summary.png">
 </p> 
 
+### Report
+
+You can download the full project report from [here](https://github.com/foratik/Parking-Management/blob/main/Document/Parking-Management-Project-Report.pdf).
+
 
